@@ -1,0 +1,7 @@
+server:
+  servlet:
+    context-path: /randomuser
+
+springdoc:
+  swagger-ui:
+    path: /documentation
